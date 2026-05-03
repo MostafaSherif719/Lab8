@@ -1,3 +1,3 @@
 # Lab8
 
-this is a website navjgation menu practice for course CIS201 in YU
+this is a website navigation menu practice for course CIS201 in YU
